@@ -43,7 +43,7 @@ DeviceFileEvents
 | project  Timestamp, DeviceName, RequestAccountName, FileName, FolderPath, SHA256, ActionType, Account= InitiatingProcessAccountName
 
 ```
-<img width="1212" alt="image" src="https://github.com/user-attachments/assets/71402e84-8767-44f8-908c-1805be31122d">
+<img width="1212" alt="image" src="https://github.com/jbcodes55/threat-hunting-scenario-tor/blob/main/threat-pic-1.png">
 
 ---
 
